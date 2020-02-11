@@ -25,5 +25,11 @@ Include 2 functions: Calculate_interior_pts takes in the size of an image and a 
 ## project_logo.py
 Main function of project
 
+# Result
+The file result shows the AR result of mapping Upenn LOGO to the Goal
+
+Example:
+![pic](https://github.com/shunqiliu/Computer-vision/blob/master/AR%20implementation/Result/frame_100.png)
+
 # Acknowledgement
 The project is the homework of the CIS580 of Upenn. What author's work is finish the functions in est homography.py and warp pts.py
