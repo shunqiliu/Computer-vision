@@ -20,6 +20,10 @@ This function is responsible for computing the homography given correspondence
 ## warp pts.py
 This function is responsible for computing the warped points given correspondence and
 a set of sample points
+## utils.py
+Include 2 functions: Calculate_interior_pts takes in the size of an image and a set of corners that define a polygon in the image. And inverse warping the picture
+## project_logo.py
+Main function of project
 
 # Acknowledgement
 The project is the homework of the CIS580 of Upenn. What author's work is finish the functions in est homography.py and warp pts.py
